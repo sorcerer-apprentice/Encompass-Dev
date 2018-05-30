@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>61a23c6c-48c8-4ec6-af59-e25b1243ec90</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>AFN2IR.Common</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)DataContracts\AFN2IRSection.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataContracts\IRMessageReq.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataContracts\IRMessageResp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataContracts\IRMessageStatus.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\AFN2IRHelpers.cs" />
+  </ItemGroup>
+</Project>

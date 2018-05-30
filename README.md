@@ -32,8 +32,7 @@ This Appliction is dependent on:
 - Increase code coverage by finalizing unit tests
 
 ## License ##
-
-The MIT License (MIT)
+AFN
 Copyright (c) 2017-2018 American Financial Networks
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.

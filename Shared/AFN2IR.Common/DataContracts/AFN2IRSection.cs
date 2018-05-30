@@ -2,20 +2,20 @@
 <AFN2IRSection>    
   <IRServiceEndpoints>
     <IRServiceEndpoint   Type="STAG" 
-                         InternalAID="2100035"
+                         InternalAID="****"
                          Url="https://www.getdirectcredit.com/STG-MismoReportListener/Listener.aspx" 
-                         UID="afn"
-                         PwD="afntest" />
+                         UID="***"
+                         PwD="***" />
     <IRServiceEndpoint   Type="PROD" 
-                         InternalAID="2007081"
+                         InternalAID="****"
                          Url="https://www.getdirectcredit.com/MismoReportListener/Listener.aspx"
-                         UID="IRbilling"
-                         PwD="ir@Billing" />
+                         UID="****"
+                         PwD="*****" />
   </IRServiceEndpoints>    
   <AFNRequest   Endpoint="STAG"
-                IRRequestSource="1000146"
-                TransID="1000000002"
-                LenderCID="1301000020"
+                IRRequestSource="****"
+                TransID="*****"
+                LenderCID="****"
                 ActionType="ClosedLoanTrigger"
                 TriggerField="CX.FX.IRREQTRIGGER" />
   <AFNResponse  TrackedDocumentTitle="Informative Research - Invoices"

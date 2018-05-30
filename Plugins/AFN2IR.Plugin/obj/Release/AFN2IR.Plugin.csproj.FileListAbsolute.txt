@@ -1,0 +1,12 @@
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\bin\Release\AFN2IR.Plugin.dll
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\bin\Release\AFN2IR.Plugin.pdb
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\bin\Release\EncompassAutomation.dll
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\bin\Release\Newtonsoft.Json.dll
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\bin\Release\RestSharp.dll
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\bin\Release\Microsoft.mshtml.dll
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\bin\Release\Newtonsoft.Json.xml
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\obj\Release\AFN2IR.Plugin.csprojAssemblyReference.cache
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\obj\Release\AFN2IR.Plugin.csproj.CoreCompileInputs.cache
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\obj\Release\AFN2IR.Plugin.csproj.CopyComplete
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\obj\Release\AFN2IR.Plugin.dll
+C:\Encompass.Dev\Plugins\AFN2IR.Plugin\obj\Release\AFN2IR.Plugin.pdb

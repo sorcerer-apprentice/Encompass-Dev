@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFN2IR.Plugin", "..\Plugins\AFN2IR.Plugin\AFN2IR.Plugin.csproj", "{291757CB-9A30-4685-A9E2-7594D1A4BE3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFN2IR.Codebase", "..\Codebase\AFN2IR.Codebase\AFN2IR.Codebase.csproj", "{2233892E-3601-4C5C-8486-12A1F59673A3}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AFN2IR.Common", "..\Shared\AFN2IR.Common\AFN2IR.Common.shproj", "{61A23C6C-48C8-4EC6-AF59-E25B1243EC90}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\Shared\AFN2IR.Common\AFN2IR.Common.projitems*{2233892e-3601-4c5c-8486-12a1f59673a3}*SharedItemsImports = 4
+		..\Shared\AFN2IR.Common\AFN2IR.Common.projitems*{291757cb-9a30-4685-a9e2-7594d1a4be3a}*SharedItemsImports = 4
+		..\Shared\AFN2IR.Common\AFN2IR.Common.projitems*{61a23c6c-48c8-4ec6-af59-e25b1243ec90}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291757CB-9A30-4685-A9E2-7594D1A4BE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291757CB-9A30-4685-A9E2-7594D1A4BE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291757CB-9A30-4685-A9E2-7594D1A4BE3A}.Debug|x86.ActiveCfg = Debug|x86
+		{291757CB-9A30-4685-A9E2-7594D1A4BE3A}.Debug|x86.Build.0 = Debug|x86
+		{291757CB-9A30-4685-A9E2-7594D1A4BE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291757CB-9A30-4685-A9E2-7594D1A4BE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{291757CB-9A30-4685-A9E2-7594D1A4BE3A}.Release|x86.ActiveCfg = Release|x86
+		{291757CB-9A30-4685-A9E2-7594D1A4BE3A}.Release|x86.Build.0 = Release|x86
+		{2233892E-3601-4C5C-8486-12A1F59673A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2233892E-3601-4C5C-8486-12A1F59673A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2233892E-3601-4C5C-8486-12A1F59673A3}.Debug|x86.ActiveCfg = Debug|x86
+		{2233892E-3601-4C5C-8486-12A1F59673A3}.Debug|x86.Build.0 = Debug|x86
+		{2233892E-3601-4C5C-8486-12A1F59673A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2233892E-3601-4C5C-8486-12A1F59673A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2233892E-3601-4C5C-8486-12A1F59673A3}.Release|x86.ActiveCfg = Release|x86
+		{2233892E-3601-4C5C-8486-12A1F59673A3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDDCFE88-5843-41C6-9D20-E7851B744276}
+	EndGlobalSection
+EndGlobal

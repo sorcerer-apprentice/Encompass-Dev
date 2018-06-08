@@ -4,8 +4,8 @@ Sample IR Request
 <? XML  VERSION='1.0'?>
 <REQUEST_GROUP>
 	<REQUESTING_PARTY  Name="MortgageTech">
-		<CONTACT_DETAIL  Name="Wilton">
-			<CONTACT_POINT  RoleType="Cell"  Type="Phone"  Value="510.600.9577" />
+		<CONTACT_DETAIL  Name="Walter">
+			<CONTACT_POINT  RoleType="Cell"  Type="Phone"  Value="510.555.1212" />
 			<CONTACT_POINT  RoleType="Work"  Type="Fax"  Value="888.217.2299" />
 			<CONTACT_POINT  RoleType="Work"  Type="Email"    Value="wilton@mortgagetech.com"/>
 		</CONTACT_DETAIL>
